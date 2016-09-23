@@ -1,0 +1,114 @@
+<style type="text/css">
+   body { 
+    background:#EEE url('') no-repeat fixed;
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size:14px;
+   }
+   body header {
+    display:block;
+    background:#006080 url('') no-repeat fixed;
+    width:90%;
+    height:auto;
+    margin:0 auto;
+    padding-top:29px;
+    padding-bottom:29px;
+    font-size:48px;
+    color:#FFF;
+    text-align:center;
+    border-radius:10px 10px 10px 10px;
+    -webkit-border-radius:10px 10px 10px 10px;
+    -moz-border-radius:10px 10px 10px 10px; 
+    -o-border-radius:10px 10px 10px 10px;
+    -ms-border-radius:10px 10px 10px 10px; 
+   }
+   body nav {
+    display:block;
+    background:#006080 url('') no-repeat fixed;
+    width:90%;
+    height:auto;
+    margin:0 auto;
+    margin-top:5px;
+    font-size:19px;
+    color:#FFF;
+    text-align:center;
+    border-radius:10px 10px 10px 10px;
+    -webkit-border-radius:10px 10px 10px 10px; 
+    -moz-border-radius:10px 10px 10px 10px; 
+    -o-border-radius:10px 10px 10px 10px;
+    -ms-border-radius:10px 10px 10px 10px; 
+   }
+   body #contenedor {
+    display:block;
+    width:90%;
+    margin:0 auto;
+   }
+   body section {
+    display:block;
+    float:left;
+    background:rgba(0, 0, 0, 0.6) url('') no-repeat fixed;
+    width:59%;
+    height:auto;
+    margin-top:5px;
+    font-size:19px;
+    color:#FFF;
+    text-align:center;
+    border-radius:10px 10px 10px 10px;
+    -webkit-border-radius:10px 10px 10px 10px; 
+    -moz-border-radius:10px 10px 10px 10px; 
+    -o-border-radius:10px 10px 10px 10px; 
+    -ms-border-radius:10px 10px 10px 10px; 
+   }
+   body section article {
+    display:block;
+    background:rgba(255, 255, 255, 0.6) url('') no-repeat fixed;
+    width:90%;
+    height:auto;
+    margin:0 auto;
+    margin-top:5px;
+    margin-bottom:5px;
+    padding-left:5px;
+    padding-right:5px;
+    font-size:19px;
+    color:#000;
+    text-align:justify;
+    border-radius:5px 5px 5px 5px;
+    -webkit-border-radius:5px 5px 5px 5px; 
+    -moz-border-radius:5px 5px 5px 5px; 
+    -o-border-radius:5px 5px 5px 5px; 
+    -ms-border-radius:5px 5px 5px 5px; 
+   }
+   body aside {
+    display:block;
+    float:left;
+    background:rgba(0, 0, 0, 0.6) url('') no-repeat fixed;
+    width:40%;
+    height:auto;
+    margin-top:5px;
+    margin-left:1%;
+    font-size:19px;
+    color:#FFF;
+    text-align:center;
+    border-radius:10px 10px 10px 10px;
+    -webkit-border-radius:10px 10px 10px 10px; 
+    -moz-border-radius:10px 10px 10px 10px; 
+    -o-border-radius:10px 10px 10px 10px; 
+    -ms-border-radius:10px 10px 10px 10px; 
+   }
+   body footer {
+    display:block;
+    clear:both;
+    background:rgba(0, 0, 0, 0.6) url('') no-repeat fixed;
+    width:90%;
+    height:auto;
+    margin:0 auto;
+    margin-top:44px;
+    font-size:19px;
+    color:#FFF;
+    text-align:center;
+    border-radius:10px 10px 10px 10px;
+    -webkit-border-radius:10px 10px 10px 10px; 
+    -moz-border-radius:10px 10px 10px 10px; 
+    -o-border-radius:10px 10px 10px 10px; 
+    -ms-border-radius:10px 10px 10px 10px; 
+   }
+  </style>
